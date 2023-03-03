@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "387651388348",
+    "project_id": "zarity-d15bd",
+    "storage_bucket": "zarity-d15bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387651388348:android:e909fe6daefc51319da1b9",
+        "android_client_info": {
+          "package_name": "com.example.zarity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387651388348-eumbp3n84s21rjnnv78908s2pebqjj10.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy3wqV2Df-bR1sC9flwS8I1Uz4_GyeBgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387651388348-eumbp3n84s21rjnnv78908s2pebqjj10.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
